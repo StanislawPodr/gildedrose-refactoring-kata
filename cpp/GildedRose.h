@@ -13,6 +13,9 @@ public:
 
 class GildedRose
 {
+    void agedBrie(Item &item);
+    void different(Item &item);
+    void backstage(Item &item);
 
 public:
     ::std::vector<Item> items;
